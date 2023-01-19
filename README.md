@@ -55,5 +55,3 @@ You can then use the `mlflow models serve` command to deploy the model to a prod
 ## Conclusion
 
 This project demonstrates the use of MLflow for model versioning and tracking. The California Housing dataset was used to train a linear regression model, and the results were logged to an MLflow run. You can use the MLflow UI to view the results, create new versions of the model, and deploy the model to a production environment.
-
-Please note that you need to replace the [username] in the git clone command with your actual username.

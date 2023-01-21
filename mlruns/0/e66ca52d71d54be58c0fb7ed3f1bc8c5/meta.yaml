@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Algo/Documents/Projects/MLFlow-Implementation/mlruns/0/e66ca52d71d54be58c0fb7ed3f1bc8c5/artifacts
+end_time: 1674297220738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e66ca52d71d54be58c0fb7ed3f1bc8c5
+run_name: clean-smelt-670
+run_uuid: e66ca52d71d54be58c0fb7ed3f1bc8c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674297220676
+status: 3
+tags: []
+user_id: Algo

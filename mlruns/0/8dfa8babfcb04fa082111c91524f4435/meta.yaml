@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Algo/Documents/Projects/MLFlow-Implementation/mlruns/0/8dfa8babfcb04fa082111c91524f4435/artifacts
+end_time: 1674297253421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dfa8babfcb04fa082111c91524f4435
+run_name: dapper-hog-324
+run_uuid: 8dfa8babfcb04fa082111c91524f4435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674297253355
+status: 3
+tags: []
+user_id: Algo

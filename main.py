@@ -31,4 +31,4 @@ if __name__=="__main__":
     log_metric('Variance score',score)
 
     # Log an artifact (output file)
-    log_artifacts()
+    log_artifacts("model")

@@ -22,4 +22,13 @@ if __name__=="__main__":
     coef_, intercept_, score = testing(model, X_test, y_test)
     dump_model(model)
 
+    # Log a parameter (key-value pair)
+    log_param("fit_intercept", True)
 
+    # Log a metric; metrics can be updated throughout the run
+    log_metric('Coefficients', coef_[0])
+    log_metric('intercept', intercept_)
+    log_metric('Variance score',score)
+
+    # Log an artifact (output file)
+    log_artifacts()

@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 The main script, `train.py`, is responsible for training the model and logging the results to an MLflow run. You can execute the script with:
 ```
-mlflow run . -P alpha=0.5 -P l1_ratio=0.5
+python main.py
 ```
 
 This will run the script with the parameters `alpha=0.5` and `l1_ratio=0.5`. You can change these values as you wish. The script will log the following information to an MLflow run:
